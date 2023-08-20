@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ChristianG-ops
+- 👀 I’m interested in DevOps projects
+- 🌱 I’m currently learning terraform
+- 💞️ Cloud and ESB
