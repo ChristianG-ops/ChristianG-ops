@@ -4,6 +4,7 @@
 - 👀 I’m interested in DevOps projects <br>
 - 🌱 I’m currently learning terraform, jenkins and kubernetes <br>
 - 💞️ I love Cloud and software applications with a service-oriented architecture (ESB)<br>
+- 💻 I will share my private repositories soon, Follow me!
 </p>
   <p align="center"> <h3>Some skills</h3> <br>
   <a href="https://skillicons.dev"> 
